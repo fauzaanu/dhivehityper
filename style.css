@@ -1,0 +1,50 @@
+body {
+  background-color: #f2f2f2;
+}
+
+#worddisplay {
+  /* dhivehi local font */
+  font-family: "kalhi";
+  font-size: 5em;
+  grid-column-start: 2;
+  text-align: center;
+}
+
+#mistakecount,
+#accuracy,
+#wpm {
+  font-family: "kalhi";
+  font-size: 2em;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  text-align: center;
+}
+
+#accuracy,
+#wpm {
+  font-family: "kalhi";
+}
+
+#mistakecount span {
+  color: white;
+  border: 1px solid rgb(34, 34, 34);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 2px;
+  background-color: gray;
+}
+
+@font-face {
+  font-family: "kalhi";
+  src: url("Dhivehi.ttf");
+}
+
+@font-face {
+  font-family: "kalhi-error";
+  src: url("DAM_Kathivalhi.otf");
+}
+
+#main {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
