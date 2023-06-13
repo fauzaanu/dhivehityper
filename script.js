@@ -82,6 +82,17 @@ function init() {
       .join("");
   }
 
+  function convertToEnglish(word) {
+    return word
+      .split("")
+      .map((letter) => {
+        return (
+          Object.keys(keyMap).find((key) => keyMap[key] === letter) || letter
+        );
+      })
+      .join("");
+  }
+
   const word_element = document.getElementById("worddisplay");
   const mistakecount_element = document.getElementById("mistakecount");
 
