@@ -93,7 +93,7 @@ export const wordlist = [
   "hafusq",
   "jUnq 11 vana duvahu wavahAravi",
   "wadi niCAnq wiwqzuwqdInuge wiwqzatuge veriyA lagabu",
-  " wEnAge Kidumatqtakuge handAnqtawq wawukurawqvamunq rawIsq vidALuvI gewqligenq wediyawI daWulatAwi muLi gawumuge hidumatqteriwewq kamaSeve",
+  "wEnAge Kidumatqtakuge handAnqtawq wawukurawqvamunq rawIsq vidALuvI gewqligenq wediyawI daWulatAwi muLi gawumuge hidumatqteriwewq kamaSeve",
   "marqHUmqge Kidumatqtakuge handAnqtawq",
   "wawukurawqvamunq rawIsq vidALuvI gewqligenq wediyawI daWulatAwi muLi gawumuge hidumatqteriwewq kamaSeve",
   "marqHUmqge Kidumatqtakuge handAnqtawq",
